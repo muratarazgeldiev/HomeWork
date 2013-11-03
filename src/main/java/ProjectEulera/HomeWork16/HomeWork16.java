@@ -1,4 +1,4 @@
-package HomeWork16;
+package ProjectEulera.HomeWork16;
 
 import java.math.BigInteger;
 import java.io.IOException;

@@ -1,6 +1,4 @@
-package HomeWork16;
-
-import HomeWork16.HomeWork16;
+package ProjectEulera.HomeWork16;
 
 import java.io.IOException;
 public class MainHomeWork16 {

@@ -1,4 +1,4 @@
-package HomeWork14;
+package ProjectEulera.HomeWork14;
 
 public class HomeWork14 {
     public int insertProv(int args){

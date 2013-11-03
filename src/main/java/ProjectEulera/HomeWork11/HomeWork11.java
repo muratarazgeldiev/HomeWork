@@ -1,7 +1,6 @@
-package HomeWork11;
+package ProjectEulera.HomeWork11;
 
 import java.io.File;
-import java.math.BigInteger;
 import java.util.Scanner;
 import java.io.IOException;
 

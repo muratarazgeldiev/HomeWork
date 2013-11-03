@@ -1,4 +1,4 @@
-package HomeWork15;
+package ProjectEulera.HomeWork15;
 
 public class HomeWork15 {
     public long insert(int args){

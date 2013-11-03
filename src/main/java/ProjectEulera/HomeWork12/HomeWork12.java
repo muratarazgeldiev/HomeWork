@@ -1,4 +1,4 @@
-package HomeWork12;
+package ProjectEulera.HomeWork12;
 
 public class HomeWork12 {
     public int maxN(int max){

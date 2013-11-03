@@ -1,4 +1,4 @@
-package HomeWork20;
+package ProjectEulera.HomeWork20;
 
 import java.math.BigInteger;
 

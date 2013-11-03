@@ -1,4 +1,6 @@
-import HomeWork14.HomeWork14;
+package TestProjectEulera;
+
+import ProjectEulera.HomeWork14.HomeWork14;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 

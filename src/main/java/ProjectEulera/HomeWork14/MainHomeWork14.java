@@ -1,6 +1,4 @@
-package HomeWork14;
-
-import HomeWork14.HomeWork14;
+package ProjectEulera.HomeWork14;
 
 public class MainHomeWork14 {
     public static void main(String[] args) {

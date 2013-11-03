@@ -1,4 +1,6 @@
-import HomeWork16.HomeWork16;
+package TestProjectEulera;
+
+import ProjectEulera.HomeWork16.HomeWork16;
 import org.junit.Test;
 
 import java.io.IOException;
